@@ -19,3 +19,8 @@
 ## Automation
 
 * [Zapier](automation/zapier.md)
+
+## Payments
+
+* [Stripe](payments/stripe.md)
+* [Braintree](payments/braintree.md)
